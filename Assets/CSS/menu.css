@@ -1,8 +1,8 @@
+html {
+    overflow-y: scroll;
+  }
 
 
-body {
-    overflow: hidden;
-}
 
 h2,
 h3,
@@ -11,7 +11,7 @@ p {
 }
 
 .menu-content {
-    margin-top: -40px;
+    
     width: 250px;
     height: 100%;
     position: absolute;
@@ -20,7 +20,7 @@ p {
     box-shadow: 1px 0 5px #000;
 }
 
-a {
+#click {
     background-color: #1a2c56;
     color: #fff;
     font-size: 20px;
@@ -30,7 +30,7 @@ a {
     border-radius: 100%;
 }
 
-a i {
+#click i {
     padding: 15px;
 }
 
